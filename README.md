@@ -1,6 +1,6 @@
 # Django Blog Project
 
-This is a simple blog project built with Django. The project includes basic functionalities such as creating, viewing, and editing posts, along with a custom admin panel.
+This is a blog project built with Django. The project includes basic functionalities such as creating, viewing, and editing posts, along with a custom admin panel.
 
 ## Description
 
